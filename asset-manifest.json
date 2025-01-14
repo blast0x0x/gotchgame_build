@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.7b376583.css",
-    "main.js": "/static/js/main.c1c50072.js",
+    "main.css": "/static/css/main.851f1dd7.css",
+    "main.js": "/static/js/main.efc826d8.js",
     "static/js/6825.4578bb66.chunk.js": "/static/js/6825.4578bb66.chunk.js",
     "static/js/7030.680e155f.chunk.js": "/static/js/7030.680e155f.chunk.js",
     "static/js/3772.649c9a2d.chunk.js": "/static/js/3772.649c9a2d.chunk.js",
@@ -77,8 +77,9 @@
     "static/media/poppins.regular.ttf": "/static/media/poppins.regular.1c701c9a6b587802e3d0.ttf",
     "static/media/PressStart2P-Regular.ttf": "/static/media/PressStart2P-Regular.21503c6a5385ab41dde9.ttf",
     "static/media/Nunito-Regular.ttf": "/static/media/Nunito-Regular.334a6311738d66594e08.ttf",
-    "static/media/mint-logo.png": "/static/media/mint-logo.17063059864102cc7496.png",
+    "static/media/mint-logo.png": "/static/media/mint-logo.37db6b846beee7089b68.png",
     "static/media/Manrope-Regular.ttf": "/static/media/Manrope-Regular.a9b9e09fe6b69741f316.ttf",
+    "static/media/table.png": "/static/media/table.61e720bb66ba0606958d.png",
     "static/media/disconnect.png": "/static/media/disconnect.333ce6dcd3efac8d27cc.png",
     "static/media/SAKURATA.ttf": "/static/media/SAKURATA.83829d804cf9d20d6551.ttf",
     "static/media/Mohave-Bold.ttf": "/static/media/Mohave-Bold.89717f61562cbfa9f9e0.ttf",
@@ -87,7 +88,6 @@
     "static/media/help-right.png": "/static/media/help-right.4fe55a9db66986f15f61.png",
     "static/media/game-right.png": "/static/media/game-right.e25cd390fa8a6d238042.png",
     "static/media/help-left.png": "/static/media/help-left.0f11883669c07f8c4f63.png",
-    "static/media/table.png": "/static/media/table.14051850a62d4025d99f.png",
     "static/media/logo.png": "/static/media/logo.c726e77d2a0a9f0ecddb.png",
     "static/media/book.svg": "/static/media/book.687587b06717e750e00e703a0ff69e5f.svg",
     "static/media/discord_black.svg": "/static/media/discord_black.4f6542bfad2ca8c045a9fd2d5621fc6c.svg",
@@ -96,7 +96,7 @@
     "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.7b376583.css",
-    "static/js/main.c1c50072.js"
+    "static/css/main.851f1dd7.css",
+    "static/js/main.efc826d8.js"
   ]
 }
