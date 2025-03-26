@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.655ecdb3.css",
-    "main.js": "/static/js/main.9fda6284.js",
+    "main.js": "/static/js/main.bc46b9c0.js",
     "static/js/6825.5c18e2b0.chunk.js": "/static/js/6825.5c18e2b0.chunk.js",
     "static/js/7833.1e383a3d.chunk.js": "/static/js/7833.1e383a3d.chunk.js",
     "static/js/2012.dbecacd2.chunk.js": "/static/js/2012.dbecacd2.chunk.js",
@@ -123,7 +123,6 @@
     "static/media/help-right.png": "/static/media/help-right.4fe55a9db66986f15f61.png",
     "static/media/game-right.png": "/static/media/game-right.e25cd390fa8a6d238042.png",
     "static/media/help-left.png": "/static/media/help-left.0f11883669c07f8c4f63.png",
-    "static/media/logo.png": "/static/media/logo.c726e77d2a0a9f0ecddb.png",
     "static/media/THEBOLDFONT-FREEVERSION.ttf": "/static/media/THEBOLDFONT-FREEVERSION.35d115dae50a893710a4.ttf",
     "static/media/THEBOLDFONT-FREEVERSION.otf": "/static/media/THEBOLDFONT-FREEVERSION.c9a93f4c01a081b5aa3c.otf",
     "static/media/THEBOLDFONT-FREEVERSION.woff": "/static/media/THEBOLDFONT-FREEVERSION.3cb4c1c751ffcd2d9122.woff",
@@ -136,6 +135,6 @@
   },
   "entrypoints": [
     "static/css/main.655ecdb3.css",
-    "static/js/main.9fda6284.js"
+    "static/js/main.bc46b9c0.js"
   ]
 }
